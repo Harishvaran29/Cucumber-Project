@@ -5,3 +5,5 @@ Given Open the chrome and open the Amazon home page
 And Maximize the page
 When Enter the email in email field
 Then Close the chrome browser
+
+--adding new line
